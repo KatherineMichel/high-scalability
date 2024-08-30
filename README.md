@@ -1,36 +1,53 @@
 # Distributed Systems Engineering
 
+## Papers
+
+* [How to Read a Paper](http://ccr.sigcomm.org/online/files/p83-keshavA.pdf)
+
 ## Sources
 
 Blogs
 * [All Things Distributed](https://www.allthingsdistributed.com)
+* [USENIX](https://www.usenix.org)
 
 Company Publications
 * [Google Research Publications](https://research.google/pubs/)
 * [Amazon Publications](https://www.amazon.science/publications)
 * [Microsoft Research](https://www.microsoft.com/en-us/research/)
 
+## Distributed Systems
+
+Consensus
+* [The Part-Time Parliament (Paxos) (1998)](https://lamport.azurewebsites.net/pubs/lamport-paxos.pdf)
+
 ## Databases
 
+Storage Engines
+* [The Log-Structured Merge-Tree (LSM-Tree) (1996)](https://www.cs.umb.edu/~poneil/lsmtree.pdf)
+
 Spanner
-* [Spanner: Google’s Globally-Distributed Database](https://static.googleusercontent.com/media/research.google.com/en//archive/spanner-osdi2012.pdf)
-* [Spanner, TrueTime & The CAP Theorem](https://storage.googleapis.com/pub-tools-public-publication-data/pdf/45855.pdf)
+* [Spanner, TrueTime & The CAP Theorem (2017)](https://storage.googleapis.com/pub-tools-public-publication-data/pdf/45855.pdf)
+* [Spanner: Google’s Globally-Distributed Database (2012)](https://static.googleusercontent.com/media/research.google.com/en//archive/spanner-osdi2012.pdf)
 
 NoSQL
-* [Cassandra - A Decentralized Structured Storage System](https://www.cs.cornell.edu/projects/ladis2009/papers/lakshman-ladis2009.pdf)
+* [Cassandra - A Decentralized Structured Storage System (2010)](https://www.cs.cornell.edu/projects/ladis2009/papers/lakshman-ladis2009.pdf)
 
 Key-Value Store
-* [Scaling Memcache at Facebook](https://www.usenix.org/system/files/conference/nsdi13/nsdi13-final170_update.pdf)
-* [Dynamo: Amazon’s Highly Available Key-value Store](https://www.allthingsdistributed.com/files/amazon-dynamo-sosp2007.pdf)
+* [Scaling Memcache at Facebook (2013)](https://www.usenix.org/system/files/conference/nsdi13/nsdi13-final170_update.pdf)
+* [Dynamo: Amazon’s Highly Available Key-value Store (2007)](https://www.allthingsdistributed.com/files/amazon-dynamo-sosp2007.pdf)
 
 Data Storage and Processing
-* [MapReduce: Simplified Data Processing on Large Clusters](https://static.googleusercontent.com/media/research.google.com/en//archive/mapreduce-osdi04.pdf)
-* [Bigtable: A Distributed Storage System for Structured Data](https://static.googleusercontent.com/media/research.google.com/en//archive/bigtable-osdi06.pdf)
+* [Bigtable: A Distributed Storage System for Structured Data (2006)](https://static.googleusercontent.com/media/research.google.com/en//archive/bigtable-osdi06.pdf)
+* [MapReduce: Simplified Data Processing on Large Clusters (2004)](https://static.googleusercontent.com/media/research.google.com/en//archive/mapreduce-osdi04.pdf)
 
 ## Google Technologies
 
-* [The Google File System](https://static.googleusercontent.com/media/research.google.com/en//archive/gfs-sosp2003.pdf)
-* [The Chubby lock service for loosely-coupled distributed systems](https://static.googleusercontent.com/media/research.google.com/en//archive/chubby-osdi06.pdf)
+* [The Google File System (2003)](https://static.googleusercontent.com/media/research.google.com/en//archive/gfs-sosp2003.pdf)
+* [The Chubby lock service for loosely-coupled distributed systems (2006)](https://static.googleusercontent.com/media/research.google.com/en//archive/chubby-osdi06.pdf)
+
+## Facebook Technologies
+
+* [XFaaS: Hyperscale and Low Cost Serverless Functions at Meta](https://www.cs.cmu.edu/~dskarlat/publications/xfaas_sosp23.pdf)
 
 ## Engineering Blogs and GitHub
 
