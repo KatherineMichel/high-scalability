@@ -6,8 +6,8 @@
 
 ## Sources
 
-Blogs
-* [All Things Distributed](https://www.allthingsdistributed.com)
+Organizations
+* [ACM Digital Library](https://dl.acm.org)
 * [USENIX](https://www.usenix.org)
 
 Company Publications
@@ -15,6 +15,14 @@ Company Publications
 * [Amazon Publications](https://www.amazon.science/publications)
 * [Microsoft Research](https://www.microsoft.com/en-us/research/)
 
+Popular Blogs
+* [All Things Distributed](https://www.allthingsdistributed.com)
+
+## People
+
+* [Jeff Dean](https://scholar.google.com/citations?user=NMS69lQAAAAJ&hl=en)
+* [Leslie Lamport](https://lamport.azurewebsites.net/pubs/pubs.html)
+  
 ## Distributed Systems
 
 Consensus
@@ -48,6 +56,10 @@ Data Storage and Processing
 ## Facebook Technologies
 
 * [XFaaS: Hyperscale and Low Cost Serverless Functions at Meta](https://www.cs.cmu.edu/~dskarlat/publications/xfaas_sosp23.pdf)
+
+## Currency
+
+* [Bitcoin](https://bitcoin.org/bitcoin.pdf)
 
 ## Engineering Blogs and GitHub
 
