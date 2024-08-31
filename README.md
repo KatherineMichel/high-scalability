@@ -9,6 +9,7 @@
 Organizations
 * [ACM Digital Library](https://dl.acm.org)
 * [USENIX](https://www.usenix.org)
+* [Arxiv](https://arxiv.org/)
 
 Company Publications
 * [Google Research Publications](https://research.google/pubs/)
@@ -22,20 +23,49 @@ Popular Blogs
 
 * [Jeff Dean](https://scholar.google.com/citations?user=NMS69lQAAAAJ&hl=en)
 * [Leslie Lamport](https://lamport.azurewebsites.net/pubs/pubs.html)
-  
+
+## Books
+
+* [Patterns of Distributed Systems (2023)](https://martinfowler.com/articles/patterns-of-distributed-systems/)
+* [Designing Data-Intensive Applications (2017)](https://www.amazon.com/Designing-Data-Intensive-Applications-Reliable-Maintainable/dp/1449373321)
+* [Building Microservices (2015)](https://www.amazon.com/Building-Microservices-Designing-Fine-Grained-Systems/dp/1492034029/)
+* [Building Microservices Intro (2015)](https://www.infoq.com/articles/microservices-intro/)
+* [Patterns of Enterprise Application Architecture (2002)](https://martinfowler.com/eaaCatalog/)
+
 ## Distributed Systems
 
-Consensus
-* [The Part-Time Parliament (Paxos) (1998)](https://lamport.azurewebsites.net/pubs/lamport-paxos.pdf)
+Lamport, et al. 
+* [Consensus on Transaction Commit (2004)](https://dsf.berkeley.edu/cs286/papers/paxoscommit-tods2006.pdf)
+* [Paxos Made Simple (2001)](https://www.microsoft.com/en-us/research/uploads/prod/2016/12/paxos-simple-Copy.pdf)
+* [The Part-Time Parliament (Paxos) (1998)](https://www.microsoft.com/en-us/research/uploads/prod/2016/12/The-Part-Time-Parliament.pdf)
+* [The Byzantine Generals Problem](https://www.microsoft.com/en-us/research/publication/byzantine-generals-problem/)
+* [Time, Clocks, and the Ordering of Events in a Distributed System (1978)](https://www.microsoft.com/en-us/research/uploads/prod/2016/12/Time-Clocks-and-the-Ordering-of-Events-in-a-Distributed-System.pdf)
+
+Dean, et al. 
+* [The Tail at Scale](https://cacm.acm.org/research/the-tail-at-scale/)
 
 ## Databases
 
+Relational Databases
+* [A Relational Model of Data for Large Shared Data Banks (1970)](https://www.seas.upenn.edu/~zives/03f/cis550/codd.pdf)
+
+CAP Theorem
+* [Eventually Consistent](https://dl.acm.org/doi/10.1145/1466443.1466448)
+  
 Storage Engines
 * [The Log-Structured Merge-Tree (LSM-Tree) (1996)](https://www.cs.umb.edu/~poneil/lsmtree.pdf)
+
+LevelDB and RocksDB
+* [LevelDB Implementation Notes](https://github.com/google/leveldb/blob/main/doc/impl.md)
+* [The History of RocksDB (2013](https://rocksdb.blogspot.com/2013/11/the-history-of-rocksdb.html)
 
 Spanner
 * [Spanner, TrueTime & The CAP Theorem (2017)](https://storage.googleapis.com/pub-tools-public-publication-data/pdf/45855.pdf)
 * [Spanner: Google’s Globally-Distributed Database (2012)](https://static.googleusercontent.com/media/research.google.com/en//archive/spanner-osdi2012.pdf)
+
+Atomic Clocks
+* [Living without atomic clocks: Where CockroachDB and Spanner diverge (2016)](https://www.cockroachlabs.com/blog/living-without-atomic-clocks/)
+* [Why Cassandra Doesn’t Need Vector Clocks](https://www.datastax.com/blog/why-cassandra-doesnt-need-vector-clocks)
 
 NoSQL
 * [Cassandra - A Decentralized Structured Storage System (2010)](https://www.cs.cornell.edu/projects/ladis2009/papers/lakshman-ladis2009.pdf)
@@ -47,6 +77,7 @@ Key-Value Store
 Data Storage and Processing
 * [Bigtable: A Distributed Storage System for Structured Data (2006)](https://static.googleusercontent.com/media/research.google.com/en//archive/bigtable-osdi06.pdf)
 * [MapReduce: Simplified Data Processing on Large Clusters (2004)](https://static.googleusercontent.com/media/research.google.com/en//archive/mapreduce-osdi04.pdf)
+* [TAO: Facebook’s Distributed Data Store for the Social Graph (2013)](https://www.usenix.org/system/files/conference/atc13/atc13-bronson.pdf)
 
 ## Google Technologies
 
@@ -55,11 +86,11 @@ Data Storage and Processing
 
 ## Facebook Technologies
 
-* [XFaaS: Hyperscale and Low Cost Serverless Functions at Meta](https://www.cs.cmu.edu/~dskarlat/publications/xfaas_sosp23.pdf)
+* [XFaaS: Hyperscale and Low Cost Serverless Functions at Meta (2023)](https://www.cs.cmu.edu/~dskarlat/publications/xfaas_sosp23.pdf)
 
 ## Currency
 
-* [Bitcoin](https://bitcoin.org/bitcoin.pdf)
+* [Bitcoin: A Peer-to-Peer Electronic Cash System (2008)](https://bitcoin.org/bitcoin.pdf)
 
 ## Engineering Blogs and GitHub
 
