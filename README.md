@@ -50,14 +50,14 @@ Relational Databases
 * [A Relational Model of Data for Large Shared Data Banks (1970)](https://www.seas.upenn.edu/~zives/03f/cis550/codd.pdf)
 
 CAP Theorem
-* [Eventually Consistent](https://dl.acm.org/doi/10.1145/1466443.1466448)
+* [Eventually Consistent (2008)](https://dl.acm.org/doi/10.1145/1466443.1466448)
   
 Storage Engines
 * [The Log-Structured Merge-Tree (LSM-Tree) (1996)](https://www.cs.umb.edu/~poneil/lsmtree.pdf)
 
 LevelDB and RocksDB
 * [LevelDB Implementation Notes](https://github.com/google/leveldb/blob/main/doc/impl.md)
-* [The History of RocksDB (2013](https://rocksdb.blogspot.com/2013/11/the-history-of-rocksdb.html)
+* [The History of RocksDB (2013)](https://rocksdb.blogspot.com/2013/11/the-history-of-rocksdb.html)
 
 Spanner
 * [Spanner, TrueTime & The CAP Theorem (2017)](https://storage.googleapis.com/pub-tools-public-publication-data/pdf/45855.pdf)
