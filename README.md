@@ -16,13 +16,11 @@ Company Publications
 * [Amazon Publications](https://www.amazon.science/publications)
 * [Microsoft Research](https://www.microsoft.com/en-us/research/)
 
-Popular Blogs
-* [All Things Distributed](https://www.allthingsdistributed.com)
-
 ## People
 
 * [Jeff Dean](https://scholar.google.com/citations?user=NMS69lQAAAAJ&hl=en)
 * [Leslie Lamport](https://lamport.azurewebsites.net/pubs/pubs.html)
+* [Werner Vogels](https://www.allthingsdistributed.com)
 
 ## Books
 
@@ -44,6 +42,11 @@ Lamport, et al.
 Dean, et al. 
 * [The Tail at Scale](https://cacm.acm.org/research/the-tail-at-scale/)
 
+Consensus
+* [Cassandra: How do I accomplish lightweight transactions with linearizable consistency? (Paxos)](https://docs.datastax.com/en/cassandra-oss/3.0/cassandra/dml/dmlLtwtTransactions.html)
+* [Raft Consensus Algorithm in ScyllaDB](https://opensource.docs.scylladb.com/stable/architecture/raft.html)
+* [Raft is So Fetch (2023)](https://www.cockroachlabs.com/blog/raft-is-so-fetch/)
+  
 ## Databases
 
 Relational Databases
@@ -63,9 +66,12 @@ Spanner
 * [Spanner, TrueTime & The CAP Theorem (2017)](https://storage.googleapis.com/pub-tools-public-publication-data/pdf/45855.pdf)
 * [Spanner: Google’s Globally-Distributed Database (2012)](https://static.googleusercontent.com/media/research.google.com/en//archive/spanner-osdi2012.pdf)
 
+Relational Databases
+* [Amazon Aurora: Design Considerations for High Throughput Cloud-Native Relational Databases (2017)](https://assets.amazon.science/dc/2b/4ef2b89649f9a393d37d3e042f4e/amazon-aurora-design-considerations-for-high-throughput-cloud-native-relational-databases.pdf)
+
 Atomic Clocks
 * [Living without atomic clocks: Where CockroachDB and Spanner diverge (2016)](https://www.cockroachlabs.com/blog/living-without-atomic-clocks/)
-* [Why Cassandra Doesn’t Need Vector Clocks](https://www.datastax.com/blog/why-cassandra-doesnt-need-vector-clocks)
+* [Why Cassandra Doesn’t Need Vector Clocks (2013)](https://www.datastax.com/blog/why-cassandra-doesnt-need-vector-clocks)
 
 NoSQL
 * [Cassandra - A Decentralized Structured Storage System (2010)](https://www.cs.cornell.edu/projects/ladis2009/papers/lakshman-ladis2009.pdf)
@@ -75,14 +81,16 @@ Key-Value Store
 * [Dynamo: Amazon’s Highly Available Key-value Store (2007)](https://www.allthingsdistributed.com/files/amazon-dynamo-sosp2007.pdf)
 
 Data Storage and Processing
-* [Bigtable: A Distributed Storage System for Structured Data (2006)](https://static.googleusercontent.com/media/research.google.com/en//archive/bigtable-osdi06.pdf)
-* [MapReduce: Simplified Data Processing on Large Clusters (2004)](https://static.googleusercontent.com/media/research.google.com/en//archive/mapreduce-osdi04.pdf)
 * [TAO: Facebook’s Distributed Data Store for the Social Graph (2013)](https://www.usenix.org/system/files/conference/atc13/atc13-bronson.pdf)
+* [Bigtable: A Distributed Storage System for Structured Data (2006)](https://static.googleusercontent.com/media/research.google.com/en//archive/bigtable-osdi06.pdf)
+
+Hadoop
+* [MapReduce: Simplified Data Processing on Large Clusters (2004)](https://static.googleusercontent.com/media/research.google.com/en//archive/mapreduce-osdi04.pdf)
 
 ## Google Technologies
 
-* [The Google File System (2003)](https://static.googleusercontent.com/media/research.google.com/en//archive/gfs-sosp2003.pdf)
 * [The Chubby lock service for loosely-coupled distributed systems (2006)](https://static.googleusercontent.com/media/research.google.com/en//archive/chubby-osdi06.pdf)
+* [The Google File System (2003)](https://static.googleusercontent.com/media/research.google.com/en//archive/gfs-sosp2003.pdf)
 
 ## Facebook Technologies
 
