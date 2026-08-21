@@ -7,7 +7,7 @@
 ![](images/split-brain-problem.png)
 [Split-brain problem](https://en.wikipedia.org/wiki/Split-brain_(computing))
 
-![](images/split-brain-two.png)
+![](images/split-brain-problem-two.png)
 
 ![](images/distributed-consensus-a-brief-history.png)
 
