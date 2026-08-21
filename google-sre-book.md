@@ -4,6 +4,8 @@
 
 [Google SRE Workbook](https://sre.google/workbook/table-of-contents/)
 
+[Introducing Non-Abstract Large System Design](https://sre.google/workbook/non-abstract-design/)
+
 ## Managing Critical State
 
 [Chapter](https://sre.google/sre-book/managing-critical-state/)
