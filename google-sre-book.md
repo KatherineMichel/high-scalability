@@ -14,6 +14,12 @@
 
 [Monitoring](https://sre.google/workbook/monitoring/)
 
+[The Four Golden Signals](https://sre.google/sre-book/monitoring-distributed-systems/#xref_monitoring_golden-signals)
+* Latency
+* Traffic
+* Errors
+* Saturation
+
 
 
 
