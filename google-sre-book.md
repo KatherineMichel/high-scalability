@@ -8,5 +8,6 @@
 
 ## Managing Critical State
 
-[Chapter](https://sre.google/sre-book/managing-critical-state/)
+[Managing Critical State: Distributed Consensus for Reliability](https://sre.google/sre-book/managing-critical-state/)
+
 
