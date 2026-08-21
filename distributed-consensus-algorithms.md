@@ -12,8 +12,8 @@
 ![](images/distributed-consensus-a-brief-history.png)
 
 Other consensus algorithms
-* Viewstamped Replication
-* RAFT
-* ZAB
-* Mencius
-* Many variants of Paxos (Fast Paxos, Egalitarian Paxos, etc)
+* [Viewstamped Replication](https://dl.acm.org/doi/10.1145/62546.62549)
+* [RAFT](https://en.wikipedia.org/wiki/Raft_(algorithm))
+* [Zookeeper Atomic Broadcast (ZAB) protocol](https://en.wikipedia.org/wiki/Atomic_broadcast)
+* [Mencius](https://www.usenix.org/legacy/event/osdi08/tech/full_papers/mao/mao_html/index.html)
+* Many variants of Paxos ([Fast Paxos](https://en.wikipedia.org/wiki/Paxos_(computer_science)#Fast_Paxos), Egalitarian Paxos, etc.)
